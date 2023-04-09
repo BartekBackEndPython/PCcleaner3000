@@ -1,5 +1,5 @@
 This is simple PCcleaner 3000 written in Python using libraries:
-**-tkinter**
+-tkinter
 -os
 -ctypes
 with functions like:
